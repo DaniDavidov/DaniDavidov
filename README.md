@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate backend developer from Sofia, Bulgaria</h3>
 
-- 🔭 I’m currently working on [e-commerce](https://github.com/DaniDavidov/e-commerce.git)
+- 🔭 I’m currently working on [blockwin-backend](https://github.com/DaniDavidov/blockwin-backend.git) & [blockwin-contracts](https://github.com/DaniDavidov/blockwin-contracts.git)
 
-- 💬 Ask me about **Java, TypeScript, Spring Boot, Angular, MySQL, PostgreSQL, HTTP, Docker**
+- 💬 Ask me about **Java, TypeScript, Spring Boot, Angular, MySQL, PostgreSQL, HTTP, Docker, Blockchain, Solidity, Foundry, Hardhat, Smart Contracts, Smart contract vulnerabilities**
 
 - 📫 How to reach me **danidavidov13.dd@gmail.com**
 
